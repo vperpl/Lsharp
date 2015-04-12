@@ -1,4 +1,3 @@
-# Lsharp
-Exploits<br>
-<br>!NEW! - ORBWALKER DETECTION <br>
-<a href="http://imgur.com/2WwDm39"><img src="http://i.imgur.com/2WwDm39.jpg" title="source: imgur.com" /></a>
+#Exploits<br>
+<br>!NEW! - Kha Zix E <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fkBvTh7Pkks" frameborder="0" allowfullscreen></iframe>
